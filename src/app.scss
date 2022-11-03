@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+body {
+  height: 100vh;
+  width: 100%;
+  background: #eaeaea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  max-width: 21rem;
+  position: relative;
+  display: flex;
+  width: 21rem;
+  border-radius: 10px;
+  height: 32rem;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #d4d4d4;
+  background: white;
+  padding: 35px 20px 70px 20px;
+}
